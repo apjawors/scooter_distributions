@@ -1,0 +1,85 @@
+date,operator,shape_uuid,shape_name,average_total_count,average_available_count,average_on_trip_count,average_non_operational_count,average_reserved_count,average_unknown_count
+2022-08-01,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,96.35,95,0.7,0.62,0,0.02
+2022-08-01,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-01,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,629.98,620.34,5.7,1.07,0,2.87
+2022-08-01,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,259.12,256.44,1.28,1.07,0,0.33
+2022-08-01,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,79.76,67.25,0.85,11.4,0.26,0
+2022-08-01,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-01,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,327.77,301.19,6.96,12.38,7.25,0
+2022-08-01,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,313.95,273.17,3.3,33.92,3.55,0
+2022-08-01,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,0,0,0,0,0,0
+2022-08-01,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-01,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-01,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-02,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,105.59,103.91,0.38,0.21,0,1.1
+2022-08-02,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-02,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,644.51,630.46,6.61,4.84,0,2.6
+2022-08-02,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,337.52,334.13,2.27,0.98,0,0.13
+2022-08-02,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,74.1,63.35,0.54,9.73,0.48,0
+2022-08-02,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-02,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,361.45,339.6,6.09,11.09,4.67,0
+2022-08-02,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,302.83,269.28,2.98,27.62,2.95,0
+2022-08-02,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,0,0,0,0,0,0
+2022-08-02,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-02,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-02,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-03,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,108.88,106.46,0.45,0.33,0,1.63
+2022-08-03,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-03,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,627.35,617.28,6.41,0.92,0.01,2.73
+2022-08-03,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,325.07,321.21,2.35,0.79,0.01,0.71
+2022-08-03,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,75.86,64.5,0.69,9.11,1.57,0
+2022-08-03,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-03,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,351.16,322.6,8.11,11.45,8.99,0
+2022-08-03,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,318.43,272.5,4.54,34.86,6.54,0
+2022-08-03,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,0.33,0.33,0,0,0,0
+2022-08-03,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-03,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-03,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-04,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,117.33,115.35,0.55,0.42,0,1
+2022-08-04,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-04,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,630.27,616.96,9.08,1.6,0,2.63
+2022-08-04,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,341.79,335.61,4.22,0.57,0,1.39
+2022-08-04,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,76.22,61.48,0.57,12.1,2.07,0
+2022-08-04,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-04,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,342.39,304.57,10.62,19.22,7.98,0
+2022-08-04,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,309.55,261.66,5.93,34.21,7.75,0
+2022-08-04,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,1.29,1.21,0,0,0,0.08
+2022-08-04,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-04,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-04,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-05,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,148.1,146.39,0.7,0.01,0,1
+2022-08-05,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-05,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,593.97,571.77,14.57,3.92,0.01,3.7
+2022-08-05,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,340.43,329.62,5.25,4,0.02,1.53
+2022-08-05,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,68.4,52.73,0.64,13.87,1.17,0
+2022-08-05,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-05,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,325.48,280.37,15.68,23.5,5.93,0
+2022-08-05,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,325.6,276.99,7.49,34.52,6.61,0
+2022-08-05,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,4.98,4.86,0,0,0,0.12
+2022-08-05,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-05,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-05,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-06,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,102.43,100.3,0.57,0.47,0,1.08
+2022-08-06,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-06,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,627.69,593.73,23.1,7.99,0.02,2.85
+2022-08-06,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,321.84,307.01,5.64,7.44,0.04,1.71
+2022-08-06,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,74.91,60.47,0.91,12.12,1.42,0
+2022-08-06,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-06,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,293.13,237.04,17.94,33.43,4.73,0
+2022-08-06,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,353.35,297.06,7.43,41.44,7.42,0
+2022-08-06,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,16.65,4.65,0,0.65,0,11.34
+2022-08-06,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-06,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-06,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
+2022-08-07,bird,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,127.6,123.65,0.95,1.98,0.02,1
+2022-08-07,bird,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-07,bird,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,548.22,518.7,14.33,8.32,0.01,6.86
+2022-08-07,bird,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,390.65,380.45,3.98,4.17,0,2.06
+2022-08-07,lime,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,72.84,53.95,0.67,16.22,1.99,0
+2022-08-07,lime,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-07,lime,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,243.8,202.53,12.96,24.57,3.73,0
+2022-08-07,lime,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,396.3,347.98,6.77,35.19,6.35,0
+2022-08-07,veoride,9c7539a9-80df-4ee3-9128-98d560c5269a,Access Zone,20,1,0,0,0,19
+2022-08-07,veoride,NOT_IN_SHAPE,NOT_IN_SHAPE,0,0,0,0,0,0
+2022-08-07,veoride,aa7d5aa5-608c-4eec-b4de-20e76b931fad,High Utilization Zone,0,0,0,0,0,0
+2022-08-07,veoride,bd251c37-ecc5-4cf4-bc14-421bf18159f5,Rest of Indianapolis,0,0,0,0,0,0
